@@ -1,0 +1,7 @@
+{
+  "board": "arduino:renesas_uno:unor4wifi",
+  "port": "/dev/cu.usbmodemF412FA65C6B82",
+  "sketch": "F2DUSB5I8PQUAJA.ino",
+  "output": "../ArduinoOutput",
+  "programmer": "cmsis-dap"
+}
