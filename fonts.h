@@ -5,7 +5,9 @@
 #include <string>
   void writeToFrame(char character, int position);
   void clearFrame();
-  void displayFrame(ArduinoLEDMatrix matrix);
+  void displayFrame();
+  void printFrame();
+  void beginMatrix();
   float getVoltage(int pin);
   String toStringVoltage(float voltage);
   void writeVoltage(int pin);
